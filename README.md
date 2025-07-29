@@ -5,6 +5,5 @@ This exact pricing slider is implemented on the homepage of a trusted <a href='h
 <h2>Installation</h2>
 <ol>
   <li>Copy the HTML block and paste it into your index.html file.</li>
-  <li>Copy the CSS and add it to your stylesheet.</li>
   <li>Copy the JavaScript and link it at the end of your <body> tag.</li>
 </ol>
